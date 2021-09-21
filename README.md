@@ -15,7 +15,7 @@
 
 This workflow demonstrates how to convert python anndata to R seurat object through R dgCMatrix object
 
-1. Loading packages
+1. Load packages
 
 ```r
 library(rhdf5)       # required to handle matrix
