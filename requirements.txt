@@ -1,0 +1,9 @@
+r-base
+r-seurat
+r-matrix
+r-hdf5r
+bioconductor-rhdf5
+r-reticulate
+anndata
+python
+r-tidyverse
